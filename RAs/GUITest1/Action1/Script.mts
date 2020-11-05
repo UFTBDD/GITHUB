@@ -10,3 +10,4 @@
 'Browser("Google").Page("Fenster1 - OSPlus-Portal").Frame("OSPPortalApplicationFrame").WebElement("empty_taoGCId_1204").Click @@ script infofile_;_ZIP::ssf2.xml_;_
 
 Browser("Google").Page("Fenster1 - OSPlus-Portal").Frame("OSPPortalApplicationFrame").WebTable("07").WebElement("outerhtml:=.*start_time=""10:00"".*").Click
+' 1te Änderung am Script
