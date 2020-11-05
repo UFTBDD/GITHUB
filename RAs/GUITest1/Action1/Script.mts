@@ -11,6 +11,4 @@
 
 Browser("Google").Page("Fenster1 - OSPlus-Portal").Frame("OSPPortalApplicationFrame").WebTable("07").WebElement("outerhtml:=.*start_time=""10:00"".*").Click
 ' 1te Änderung am Script
-' te Änderung am Script
-' 3te Änderung
-' 4 te Änderung
+
